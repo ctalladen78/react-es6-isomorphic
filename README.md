@@ -9,6 +9,8 @@ This project is the isomorphic version of [topheman/react-es6](https://github.co
 
 The backend is based on [topheman/topheman-apis-proxy](https://github.com/topheman/topheman-apis-proxy) which provides the github API.
 
+Please refer to this blog post: http://dev.topheman.com/react-es6-isomorphic/
+
 Techs involved :
 
 * React (client and server side rendering)
